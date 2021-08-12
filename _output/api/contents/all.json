@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-08-12T13:45:09.580547Z",
+      "format": null,
+      "last_modified": "2021-08-12T13:09:03.578518Z",
+      "mimetype": null,
+      "name": "TC_model_jupyterlite.ipynb",
+      "path": "TC_model_jupyterlite.ipynb",
+      "size": 75064,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2021-08-12T13:45:09.578547Z",
+  "format": "json",
+  "last_modified": "2021-08-12T13:45:09.580547Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
