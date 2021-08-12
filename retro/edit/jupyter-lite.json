@@ -1,7 +1,7 @@
 {
-  "jupyter-lite-schema-version": 0,
   "jupyter-config-data": {
-    "retroPage": "edit",
-    "faviconUrl": "./favicon.ico"
-  }
+    "faviconUrl": "./favicon.ico",
+    "retroPage": "edit"
+  },
+  "jupyter-lite-schema-version": 0
 }
