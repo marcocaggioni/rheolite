@@ -1,0 +1,133 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.913769Z",
+      "format": null,
+      "last_modified": "2021-11-04T20:51:33.383347Z",
+      "mimetype": null,
+      "name": "csv_to_sqlite_script.ipynb",
+      "path": "sqllite_files/csv_to_sqlite_script.ipynb",
+      "size": 3305,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.918774Z",
+      "format": null,
+      "last_modified": "2021-11-04T20:48:07.922443Z",
+      "mimetype": null,
+      "name": "dekker2018scaling_2.db",
+      "path": "sqllite_files/dekker2018scaling_2.db",
+      "size": 61440,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.922774Z",
+      "format": null,
+      "last_modified": "2021-11-04T20:48:08.361005Z",
+      "mimetype": null,
+      "name": "dinkgreve2015universal_2.db",
+      "path": "sqllite_files/dinkgreve2015universal_2.db",
+      "size": 61440,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.928762Z",
+      "format": null,
+      "last_modified": "2021-11-04T20:48:08.794765Z",
+      "mimetype": null,
+      "name": "ghosh2019linear_3.db",
+      "path": "sqllite_files/ghosh2019linear_3.db",
+      "size": 61440,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.934774Z",
+      "format": null,
+      "last_modified": "2021-11-04T20:48:09.161216Z",
+      "mimetype": null,
+      "name": "mason1996yielding_5.db",
+      "path": "sqllite_files/mason1996yielding_5.db",
+      "size": 53248,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.938762Z",
+      "format": null,
+      "last_modified": "2021-11-04T20:48:09.351419Z",
+      "mimetype": null,
+      "name": "pamvouxoglou2021stress_6.db",
+      "path": "sqllite_files/pamvouxoglou2021stress_6.db",
+      "size": 28672,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.943774Z",
+      "format": null,
+      "last_modified": "2021-11-04T20:48:09.978292Z",
+      "mimetype": null,
+      "name": "paredes2013rheology_1.db",
+      "path": "sqllite_files/paredes2013rheology_1.db",
+      "size": 86016,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.950763Z",
+      "format": null,
+      "last_modified": "2021-11-04T20:48:10.285652Z",
+      "mimetype": null,
+      "name": "petekidis2004yielding_5.db",
+      "path": "sqllite_files/petekidis2004yielding_5.db",
+      "size": 45056,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.956774Z",
+      "format": null,
+      "last_modified": "2021-11-04T20:48:10.672768Z",
+      "mimetype": null,
+      "name": "seth2011micromecanical_S4a.db",
+      "path": "sqllite_files/seth2011micromecanical_S4a.db",
+      "size": 53248,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.961753Z",
+      "format": null,
+      "last_modified": "2021-11-04T20:48:10.866247Z",
+      "mimetype": null,
+      "name": "seth2011micromechanical_S4b.db",
+      "path": "sqllite_files/seth2011micromechanical_S4b.db",
+      "size": 28672,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2021-11-05T02:10:39.912761Z",
+  "format": "json",
+  "last_modified": "2021-11-05T02:10:39.961753Z",
+  "mimetype": null,
+  "name": "sqllite_files",
+  "path": "sqllite_files",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

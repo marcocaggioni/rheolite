@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.912761Z",
+      "format": null,
+      "last_modified": "2021-11-05T02:10:39.961753Z",
+      "mimetype": null,
+      "name": "sqllite_files",
+      "path": "sqllite_files",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-05T02:10:39.965758Z",
+      "format": null,
+      "last_modified": "2021-11-05T02:05:39.379592Z",
+      "mimetype": null,
+      "name": "TC_model_jupyterlite.ipynb",
+      "path": "TC_model_jupyterlite.ipynb",
+      "size": 75064,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2021-11-05T02:10:39.912761Z",
+  "format": "json",
+  "last_modified": "2021-11-05T02:10:39.965758Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
